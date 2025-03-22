@@ -1,9 +1,9 @@
 {
     "name": "Bilibili 旧播放页",
-    "namespace": "MotooriKashin",
+    "namespace": "123czr",
     "version": "10.8.5",
     "description": "恢复Bilibili旧版页面，为了那些念旧的人。",
-    "author": "MotooriKashin, wly5556",
+    "author": "123czr,MotooriKashin, wly5556",
     "homepage": "https://github.com/MotooriKashin/Bilibili-Old",
     "supportURL": "https://github.com/MotooriKashin/Bilibili-Old/issues",
     "icon": "https://www.bilibili.com/favicon.ico",
